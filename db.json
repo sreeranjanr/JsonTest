@@ -1,0 +1,409 @@
+{
+	"centers": [
+		{
+			"center_id": 407156,
+			"name": "Thindlu UPHC",
+			"address": "GKVK Road",
+			"state_name": "Karnataka",
+			"district_name": "BBMP",
+			"block_name": "Yelahanka",
+			"pincode": 560097,
+			"lat": 13,
+			"long": 77,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "4c025fe5-d9eb-4a96-86c4-02fcdbdc222a",
+					"date": "12-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "ab3b0c96-9263-4e19-a714-34bbf6f30c59",
+					"date": "13-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "c431a1f8-15b7-4004-aed9-48f21063bf03",
+					"date": "14-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "92e49c17-f631-45a0-81be-563360cef3df",
+					"date": "15-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "724ca24a-8528-4d9d-87ba-0573dcd39429",
+					"date": "16-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "886d0f1b-b9ab-4e9d-8728-bfa500761a12",
+					"date": "17-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "500f1f7e-f11c-447b-beb2-1f67f2f9a7bd",
+					"date": "18-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				}
+			]
+		},
+		{
+			"center_id": 591237,
+			"name": "BANGARAPPA NAGAR UPHC",
+			"address": "RAJARAJESHWARI NAGAR",
+			"state_name": "Karnataka",
+			"district_name": "BBMP",
+			"block_name": "Bommanahalli",
+			"pincode": 560098,
+			"lat": 12,
+			"long": 77,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "7c5d5a6a-e9e1-4b84-ab48-cf992d01433b",
+					"date": "12-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "f10d0cce-41a7-4dda-b902-76296353b2d6",
+					"date": "13-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				}
+			]
+		},
+		{
+			"center_id": 406990,
+			"name": "Kengeri Upanagara UPHC",
+			"address": "Opp Sheshadripuram Composite College",
+			"state_name": "Karnataka",
+			"district_name": "BBMP",
+			"block_name": "DASRAHALLI",
+			"pincode": 560060,
+			"lat": 12,
+			"long": 77,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "b7352045-8876-4b7b-b537-2b3aa073324f",
+					"date": "12-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "ebde7d3d-d0a9-4d59-8bf1-45f0d79f5391",
+					"date": "13-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				}
+			]
+		},
+		{
+			"center_id": 407005,
+			"name": "KODIGEHALLI UPHC 1",
+			"address": "Kodigehalli Main Road",
+			"state_name": "Karnataka",
+			"district_name": "BBMP",
+			"block_name": "Yelahanka",
+			"pincode": 560092,
+			"lat": 13,
+			"long": 77,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "128ceffa-9fea-48d7-afdf-479577bd34b8",
+					"date": "12-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "81110019-d2d2-4e9c-a2b5-d53741e0161d",
+					"date": "13-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "1207e994-77fd-4f07-917f-4647ed3c1671",
+					"date": "14-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "49866495-a7f6-4c91-93c5-95e8dcaf1c7e",
+					"date": "15-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "0163138f-6a33-47c8-9e72-38b75eb66bc9",
+					"date": "16-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "b5beeefe-1b32-47d5-b673-feba7d0629e8",
+					"date": "17-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "e0b56710-6008-4622-8bbe-128c89b07e6b",
+					"date": "18-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				}
+			]
+		},
+		{
+			"center_id": 407102,
+			"name": "Sahakarnagar UPHC 1",
+			"address": "Canara Bank Layout",
+			"state_name": "Karnataka",
+			"district_name": "BBMP",
+			"block_name": "Yelahanka",
+			"pincode": 560097,
+			"lat": 13,
+			"long": 77,
+			"from": "09:00:00",
+			"to": "18:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "aa808dda-d6d2-4ddc-b414-ea4c37d6e57e",
+					"date": "12-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "0d037ed9-ea8b-4dae-a8a5-2a934e4c0515",
+					"date": "13-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "27912836-f3cc-4a73-bf3b-9618aeeb64f0",
+					"date": "14-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "92447de2-a791-4bc9-8ad9-f1e1baadce22",
+					"date": "15-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "e40cd92e-af2b-4d94-9d8c-fe5f5b49e179",
+					"date": "16-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "33e35f09-a413-437b-9cb8-34184a97ce5f",
+					"date": "17-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				},
+				{
+					"session_id": "786bebfe-0956-45db-9b1d-da69ef6f120e",
+					"date": "18-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVISHIELD",
+					"slots": [
+						"09:00AM-11:00AM",
+						"11:00AM-01:00PM",
+						"01:00PM-03:00PM",
+						"03:00PM-06:00PM"
+					]
+				}
+			]
+		}
+	]
+}
