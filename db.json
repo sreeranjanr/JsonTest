@@ -1,74 +1,96 @@
 {
 	"centers": [
 		{
-			"center_id": 407156,
-			"name": "Thindlu UPHC",
-			"address": "GKVK Road",
-			"state_name": "Karnataka",
-			"district_name": "BBMP",
-			"block_name": "Yelahanka",
-			"pincode": 560097,
-			"lat": 13,
-			"long": 77,
+			"center_id": 701851,
+			"name": "Chunakkara CHC(Covaxin)",
+			"address": "Alappuzha Alappuzha Kerala India",
+			"state_name": "Kerala",
+			"district_name": "Alappuzha",
+			"block_name": "Chunakkara",
+			"pincode": 690505,
+			"lat": 9,
+			"long": 76,
 			"from": "09:00:00",
-			"to": "18:00:00",
+			"to": "15:00:00",
 			"fee_type": "Free",
 			"sessions": [
 				{
-					"session_id": "4c025fe5-d9eb-4a96-86c4-02fcdbdc222a",
-					"date": "12-05-2021",
-					"available_capacity":3,
+					"session_id": "e5a49a83-9a7a-41c5-b9c2-e103e69dc41d",
+					"date": "18-05-2021",
+					"available_capacity": 0,
 					"min_age_limit": 45,
-					"vaccine": "COVISHIELD",
+					"vaccine": "COVAXIN",
 					"slots": [
-						"09:00AM-11:00AM",
-						"11:00AM-01:00PM",
-						"01:00PM-03:00PM",
-						"03:00PM-06:00PM"
-					]
+						"09:00AM-10:00AM",
+						"10:00AM-11:00AM",
+						"11:00AM-12:00PM",
+						"12:00PM-03:00PM"
+					],
+					"available_capacity_dose1": 0,
+					"available_capacity_dose2": 0
 				}
 			]
 		},
 		{
-			"center_id": 407156,
-			"name": "Thindlu UPHC",
-			"address": "GKVK Road",
-			"state_name": "Karnataka",
-			"district_name": "BBMP",
-			"block_name": "Yelahanka",
-			"pincode": 560097,
-			"lat": 13,
-			"long": 77,
+			"center_id": 629554,
+			"name": "PULIMKUNNU THQH CVX",
+			"address": "KANNADY PO PULIMKUNNU ALAPPUZHA",
+			"state_name": "Kerala",
+			"district_name": "Alappuzha",
+			"block_name": "Veliyanad",
+			"pincode": 688504,
+			"lat": 9,
+			"long": 76,
 			"from": "09:00:00",
-			"to": "18:00:00",
+			"to": "15:00:00",
 			"fee_type": "Free",
 			"sessions": [
 				{
-					"session_id": "4c025fe5-d9eb-4a96-86c4-02fcdbdc222a",
-					"date": "12-05-2021",
-					"available_capacity":0,
+					"session_id": "2dca336b-51ca-449c-becf-954dfb83e0d3",
+					"date": "18-05-2021",
+					"available_capacity": 0,
+					"min_age_limit": 45,
+					"vaccine": "COVAXIN",
+					"slots": [
+						"09:00AM-10:00AM",
+						"10:00AM-11:00AM",
+						"11:00AM-12:00PM",
+						"12:00PM-03:00PM"
+					],
+					"available_capacity_dose1": 0,
+					"available_capacity_dose2": 0
+				}
+			]
+		},
+		{
+			"center_id": 94974,
+			"name": "Muhamma CHC",
+			"address": "Muhamma CHCKanjikkuzhy Muhamma",
+			"state_name": "Kerala",
+			"district_name": "Alappuzha",
+			"block_name": "Muhamma",
+			"pincode": 688525,
+			"lat": 9,
+			"long": 76,
+			"from": "09:00:00",
+			"to": "15:00:00",
+			"fee_type": "Free",
+			"sessions": [
+				{
+					"session_id": "2707f63b-d8e3-47a0-a435-7b43293c4e6e",
+					"date": "18-05-2021",
+					"available_capacity": 0,
 					"min_age_limit": 45,
 					"vaccine": "COVISHIELD",
 					"slots": [
-						"09:00AM-11:00AM",
-						"11:00AM-01:00PM",
-						"01:00PM-03:00PM",
-						"03:00PM-06:00PM"
-					]
-				},{
-					"session_id": "4c025fe5-d9eb-4a96-86c4-02fcdbdc222a",
-					"date": "13-05-2021",
-					"available_capacity": 99,
-					"min_age_limit": 45,
-					"vaccine": "COVISHIELD",
-					"slots": [
-						"09:00AM-11:00AM",
-						"11:00AM-01:00PM",
-						"01:00PM-03:00PM",
-						"03:00PM-06:00PM"
-					]
+						"09:00AM-10:00AM",
+						"10:00AM-11:00AM",
+						"11:00AM-12:00PM",
+						"12:00PM-03:00PM"
+					],
+					"available_capacity_dose1": 0,
+					"available_capacity_dose2": 0
 				}
 			]
 		}
-	]
 }
