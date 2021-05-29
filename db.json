@@ -14,7 +14,7 @@
 			"fee_type": "Free",
 			"sessions": [{
 				"session_id": "e5a49a83-9a7a-41c5-b9c2-e103e69dc41d",
-				"date": "29-05-2021",
+				"date": "30-05-2021",
 				"available_capacity": 19,
 				"min_age_limit": 45,
 				"vaccine": "COVAXIN",
@@ -43,7 +43,7 @@
 			"fee_type": "Free",
 			"sessions": [{
 				"session_id": "2dca336b-51ca-449c-becf-954dfb83e0d3",
-				"date": "29-05-2021",
+				"date": "30-05-2021",
 				"available_capacity": 10,
 				"min_age_limit": 18,
 				"vaccine": "COVAXIN",
