@@ -11,12 +11,12 @@
 			"long": 76,
 			"from": "09:00:00",
 			"to": "15:00:00",
-			"fee_type": "Free",
+			"fee_type": "Paid",
 			"sessions": [{
 				"session_id": "e5a49a83-9a7a-41c5-b9c2-e103e69dc41d",
-				"date": "26-05-2021",
-				"available_capacity": 19,
-				"min_age_limit": 45,
+				"date": "18-06-2021",
+				"available_capacity": 0,
+				"min_age_limit": 18,
 				"vaccine": "COVAXIN",
 				"slots": [
 					"09:00AM-10:00AM",
